@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Dwisha Shah</h1>
 <h3 align="center">An enthusiastic Data Science Student.</h3>
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/woman-programmer-software-web-development-computer-girl-work-script-coding-programming_352905-203.jpg?w=2000">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSaraNooryar&psig=AOvVaw329QGAD0XjOkGUjR2AXTKH&ust=1687857381242000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiQ8e7M4P8CFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwishashah&label=Profile%20views&color=0e75b6&style=flat" alt="dwishashah" /> </p>
 
@@ -25,5 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dwishashah&" alt="dwishashah" /></p>
 
-![Dwisha's github stats](https://github-readme-stats.vercel.app/api?username=dwishashah)
 
