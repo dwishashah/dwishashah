@@ -24,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dwishashah&show_icons=true&locale=en" alt="dwishashah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dwishashah&" alt="dwishashah" /></p>
+
+![Dwisha's github stats](https://github-readme-stats.vercel.app/api?username=dwishashah)
+
