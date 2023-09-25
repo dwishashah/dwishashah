@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Dwisha Shah</h1>
+<h1 align="center">Hi 👋🏻, I'm Dwisha Shah</h1>
 <h3 align="center">An enthusiastic Data Science Student.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
 
