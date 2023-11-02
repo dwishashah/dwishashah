@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analysis** and **Machine learning**
+- 🌱 I’m currently learning **Data Analysis**, **Machine learning** and **Deep Learning**
+  
+- 🔬 I’m pursuing **B.Tech in Computer Science and Data Science**
 
 - 📫 How to reach me **shahdwishap@gmail.com** 
 
